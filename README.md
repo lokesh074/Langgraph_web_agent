@@ -20,5 +20,3 @@ It enables users to:
 
 ---
 
-## 🧱 Project Structure
-
